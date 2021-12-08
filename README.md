@@ -2,10 +2,11 @@
 
 This is ***Daniel*** a ***Data Science*** aspirant, From Chennai, India.
 
-
-Anyone can find me on : &nbsp;<a href = "linkedin.com/in/daniel-j-visitmetoknowaboutme" >
-You can reach me at
-&nbsp;: dannyrd2707@@gmail.com
+Anyone can find me on : &nbsp; :https://www.linkedin.com/in/daniel-j-visitmetoknowaboutme/
+  
+  
+Anyone can also contact me via 
+&nbsp; : dannyrd2707@gmail.com
 
 ## :wrench: Job Responsiblities
 
