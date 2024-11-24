@@ -1,6 +1,6 @@
 ### Welcome to my github folks! 👋
 
-This is ***Daniel*** a ***Data Science*** aspirant, From Chennai, India.
+I am ***Daniel*** a ***Data Science*** studying Msc Data science and AI at University of Liverpool
 
 Anyone can find me on : &nbsp; :https://www.linkedin.com/in/daniel-j-visitmetoknowaboutme/
   
@@ -28,20 +28,6 @@ Anyone can also contact me via
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, NLP, Resnet|
 | Computer Vision | OpenCV, Dlib, Object Tracking  |
 
-For More Details refer my <a href = "https://github.com/ApacheNaren/Lakshminarayanan/blob/main/Lakshminarayanan%2010-10-2021%20New.pdf">Resume</a>
   
 
-<!--
-**danyrd/danyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
