@@ -1,33 +1,35 @@
-### Welcome to my github folks! 👋
+### Hey there, I'm Daniel 👋
 
-I am ***Daniel*** a ***Data Science*** studying Msc Data science and AI at University of Liverpool
+I'm a data science enthusiast currently pursuing an MSc in Data Science and AI at the University of Liverpool. I love to explore how we can use data and machine learning to solve real-world problems.
 
-Anyone can find me on : &nbsp; :https://www.linkedin.com/in/daniel-j-visitmetoknowaboutme/
-  
-  
-Anyone can also contact me via 
-&nbsp; : dannyrd2707@gmail.com
+---
 
-## :wrench: Job Responsiblities
+### 🛠️ My Toolbox
 
-| Skill | Technologies worked on | 
-|:--|:------------|
-| Programming | Python, R Programming |
-| DataBase | SQL |
-| Tools/ IDE | Tableau, Jupyter Notebook |
-| Machine Learning | EDA, ML-Algorithms, Execution with python |
-| Deep Learning | Neural Networks , Computer Vision, NLP, Execution with Python |
-| Operating System | Windows |
+Here's a snapshot of the technologies I work with:
 
-## :notebook_with_decorative_cover: Skill Elaboration
+* **Programming Languages**: Python, R
+* **Databases**: SQL
+* **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+* **Machine Learning**: Scikit-Learn (Regression, Classification, Ensemble Methods)
+* **Deep Learning**: TensorFlow, Keras (ANNs, CNNs, RNNs)
+* **Computer Vision**: OpenCV, Dlib
+* **Data Visualization**: Tableau
+* **Development**: Jupyter Notebook
 
-| Skill | Technologies used to work or Known | 
-|:--|:------------|
-| Python | Numpy, Pandas ,Matplotlib, Seaborn, Scikit-Learn, Keras, Open-cv, Tensorflow |
-| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
-| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, NLP, Resnet|
-| Computer Vision | OpenCV, Dlib, Object Tracking  |
+---
 
-  
+### 🎓 What I'm Learning
 
+I'm currently diving deeper into:
 
+* **Natural Language Processing (NLP)**
+* **Computer Vision (Object Tracking)**
+* **ResNet and other advanced deep learning architectures**
+
+---
+
+### ✉️ Let's get in touch
+
+* <a href="https://www.linkedin.com/in/daniel-j-visitmetoknowaboutme/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+* <a href="mailto:dannytrd2707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
