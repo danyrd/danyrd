@@ -1,35 +1,49 @@
-### Hey there, I'm Daniel 👋
+<!-- Daniel Jude Donbosco | GitHub Profile -->
 
-I'm a data science enthusiast currently pursuing an MSc in Data Science and AI at the University of Liverpool. I love to explore how we can use data and machine learning to solve real-world problems.
+# 👋 Hey, I'm Daniel Jude Donbosco  
 
----
-
-### 🛠️ My Toolbox
-
-Here's a snapshot of the technologies I work with:
-
-* **Programming Languages**: Python, R
-* **Databases**: SQL
-* **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-* **Machine Learning**: Scikit-Learn (Regression, Classification, Ensemble Methods)
-* **Deep Learning**: TensorFlow, Keras (ANNs, CNNs, RNNs)
-* **Computer Vision**: OpenCV, Dlib
-* **Data Visualization**: Tableau
-* **Development**: Jupyter Notebook
+🚀 MSc Data Science & AI (2024–2026) @ University of Liverpool  
+📊 Ex-Data Analyst → Data Engineer → Future Data Scientist  
+🔬 Exploring AI + Psychology | 🎧 Building AI tools for learning & creativity  
 
 ---
 
-### 🎓 What I'm Learning
-
-I'm currently diving deeper into:
-
-* **Natural Language Processing (NLP)**
-* **Computer Vision (Object Tracking)**
-* **ResNet and other advanced deep learning architectures**
+## 🛠️ Tech Playground  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-### ✉️ Let's get in touch
+## 📌 Highlight Repositories  
+🔹 [**psych-data-miner**](#) – OCR + LLM pipeline for extracting experimental data from psychology papers  
+🔹 [**ai-playlist-generator**](#) – Generates playlists from real-time sentiment (text/voice) 🎶  
+🔹 [**scotland-trip-planner**](#) – Just for fun! 🚗🏔️ Code + maps from my April Scotland road trip  
 
-* <a href="https://www.linkedin.com/in/daniel-j-visitmetoknowaboutme/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-* <a href="mailto:dannytrd2707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
+---
+
+## 📊 GitHub Stats  
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6)
+
+---
+
+## 🌍 Beyond Code  
+- 🏔 Exploring Scotland & beyond  
+- 📚 Psychology + AI research geek  
+- 🎧 Playing with AI + music experiments  
+- ✍️ Writing & teaching data science concepts  
+
+---
+
+✨ *“Turning data into stories, and stories into impact.”*  
